@@ -1,0 +1,22 @@
+{
+    "move-left": {
+        "toggle": "hold",
+        "button": ["keyboard", [97]]
+    },
+    "move-right": {
+        "toggle": "hold",
+        "button": ["keyboard", [100]]
+    },
+    "jump": {
+        "toggle": "press",
+        "button": ["keyboard", [119]]
+    },
+    "down": {
+        "toggle": "hold",
+        "button": ["keyboard", [115]]
+    },
+    "blink": {
+        "toggle": "press",
+        "button": ["keyboard", [32]]
+    }
+}

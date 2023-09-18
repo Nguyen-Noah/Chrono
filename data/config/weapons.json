@@ -1,0 +1,9 @@
+{
+    "sword": {
+        "damage": 10,
+        "attack_rate": 0.12,
+        "controls": ["left"],
+        "primary_range": [0, 30],
+        "max_rank": 5
+    }
+}

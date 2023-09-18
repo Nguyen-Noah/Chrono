@@ -1,0 +1,9 @@
+{
+    "base_resolution": [360, 240],
+    "scaled_resolution": [1080, 720],
+    "scale_factor": 3,
+    "FPS": 60,
+    "offset": [0, 0],
+    "caption": "ChronoShift",
+    "background": [20, 0, 30]
+}
